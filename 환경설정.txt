@@ -2,7 +2,7 @@
 pip install jupyter --trusted-host pypi.org --trusted-host files.pythonhosted.org
 
 2.패키지 설치
-pip install pandas==2.2.0 matplotlib seaborn clipboard datetime opencv-python pillow openpyxl nltk==3.8.1 kiwipiepy==0.16.2 wordcloud squarify gensim==4.3.2 scipy==1.12 scikit-learn==1.4.0 tqdm afinn==0.1 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+pip install pandas==2.2.0 matplotlib seaborn clipboard datetime lxml opencv-python pillow openpyxl nltk==3.8.1 kiwipiepy==0.16.2 wordcloud squarify gensim==4.3.2 scipy==1.12 scikit-learn==1.4.0 tqdm afinn==0.1 --trusted-host pypi.org --trusted-host files.pythonhosted.org
 
 3.NLTK 데이터셋 환경설정 : 사내에서는 방화벽때문에 자동 다운 불가로 수동 다운
 'nltk_data' 폴더는 다음 폴더에 압축 풀기(폴더명은 PC 계정에 따라 다를 수 있음) : C:\Users\poscoedu\AppData\Roaming\nltk_data
